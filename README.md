@@ -35,7 +35,7 @@ This project is a web scraper built using Scrapy to gather property information 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/noman1811048/scrapyAssignment
+   git clone https://github.com/noman62/-web-scraper-
    cd scrapyAssignment
 
    ```
